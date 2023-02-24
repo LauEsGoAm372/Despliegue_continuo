@@ -47,4 +47,4 @@ jobs:
       - name: test aws cli
         run: |
           aws s3api list-buckets
-          aws s3 cp funcioncitas.py s3://buckettd
+          aws s3 cp funcioncitas.py s3://buckettdd
